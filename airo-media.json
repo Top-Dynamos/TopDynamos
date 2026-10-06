@@ -1,0 +1,1199 @@
+{
+  "pages/home/featured-professional-1": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "headshot,looking_at_camera",
+    "moods": "bold",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "one",
+    "ageOfPeople": "adult,mature_adult",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1415060126",
+    "searchQuery": "professional executive woman portrait business headshot confident",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/684764018",
+      "https://img1.wsimg.com/isteam/getty/1062517506",
+      "https://img1.wsimg.com/isteam/getty/611068896"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:45:41.696Z",
+    "lastUpdated": "2026-08-12T21:45:41.696Z",
+    "gettyId": "1415060126",
+    "alternativeGettyIds": [
+      "684764018",
+      "1062517506",
+      "611068896"
+    ]
+  },
+  "pages/home/story-education": {
+    "requestedSize": {
+      "width": 800,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "natural",
+    "graphicalStyles": "photography",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1414996651",
+    "searchQuery": "university professor educator academic lecture campus research",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1366724877",
+      "https://img1.wsimg.com/isteam/getty/2287467563"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:45:44.143Z",
+    "lastUpdated": "2026-08-12T21:45:44.143Z",
+    "gettyId": "1414996651",
+    "alternativeGettyIds": [
+      "1366724877",
+      "2287467563"
+    ]
+  },
+  "pages/home/story-science": {
+    "requestedSize": {
+      "width": 800,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "cool,dramatic",
+    "graphicalStyles": "photography",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2285805913",
+    "searchQuery": "scientist engineer technology innovation research laboratory futuristic",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2261777514",
+      "https://img1.wsimg.com/isteam/getty/2148359294"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:45:45.615Z",
+    "lastUpdated": "2026-08-12T21:45:45.615Z",
+    "gettyId": "2285805913",
+    "alternativeGettyIds": [
+      "2261777514",
+      "2148359294"
+    ]
+  },
+  "pages/home/featured-professional-3": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "headshot,looking_at_camera",
+    "moods": "bold",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "one",
+    "ageOfPeople": "adult,mature_adult",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1317362747",
+    "searchQuery": "professional woman doctor scientist researcher portrait confident",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1387549434",
+      "https://img1.wsimg.com/isteam/getty/800395098"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:45:46.430Z",
+    "lastUpdated": "2026-08-12T21:45:46.430Z",
+    "gettyId": "1317362747",
+    "alternativeGettyIds": [
+      "1387549434",
+      "800395098"
+    ]
+  },
+  "pages/home/story-latest-2": {
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "cool",
+    "graphicalStyles": "photography",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2273447275",
+    "searchQuery": "innovation technology startup entrepreneur modern office",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2246252949",
+      "https://img1.wsimg.com/isteam/getty/1365412504"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:45:51.042Z",
+    "lastUpdated": "2026-08-12T21:45:51.042Z",
+    "gettyId": "2273447275",
+    "alternativeGettyIds": [
+      "2246252949",
+      "1365412504"
+    ]
+  },
+  "pages/home/featured-professional-2": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "headshot,looking_at_camera",
+    "moods": "bold",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "one",
+    "ageOfPeople": "adult,mature_adult",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/596388410",
+    "searchQuery": "professional male executive doctor attorney portrait confident business",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/874876510",
+      "https://img1.wsimg.com/isteam/getty/609691370",
+      "https://img1.wsimg.com/isteam/getty/615890828"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:45:52.874Z",
+    "lastUpdated": "2026-08-12T21:45:52.874Z",
+    "gettyId": "596388410",
+    "alternativeGettyIds": [
+      "874876510",
+      "609691370",
+      "615890828"
+    ]
+  },
+  "pages/home/featured-professional-4": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "headshot,looking_at_camera",
+    "moods": "bold",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "one",
+    "ageOfPeople": "adult,mature_adult",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/597942150",
+    "searchQuery": "professional male entrepreneur CEO executive portrait business leader",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/874876510",
+      "https://img1.wsimg.com/isteam/getty/2152846091",
+      "https://img1.wsimg.com/isteam/getty/1314920924"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:45:53.456Z",
+    "lastUpdated": "2026-08-12T21:45:53.456Z",
+    "gettyId": "597942150",
+    "alternativeGettyIds": [
+      "874876510",
+      "2152846091",
+      "1314920924"
+    ]
+  },
+  "pages/home/story-latest-1": {
+    "requestedSize": {
+      "width": 900,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "bold",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "one",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2279612546",
+    "searchQuery": "business executive leadership strategy corporate professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2231181721",
+      "https://img1.wsimg.com/isteam/getty/1615214950"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:45:53.690Z",
+    "lastUpdated": "2026-08-12T21:45:53.690Z",
+    "gettyId": "2279612546",
+    "alternativeGettyIds": [
+      "2231181721",
+      "1615214950"
+    ]
+  },
+  "pages/home/hero": {
+    "requestedSize": {
+      "width": 1600,
+      "height": 900,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "compositions": "wide_shot",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "one",
+    "minimumSize": "x_large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2260013019",
+    "searchQuery": "dramatic executive business leader portrait high contrast editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1962298734",
+      "https://img1.wsimg.com/isteam/getty/1278223982",
+      "https://img1.wsimg.com/isteam/getty/641732962",
+      "https://img1.wsimg.com/isteam/getty/1332708183"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:45:54.806Z",
+    "lastUpdated": "2026-08-12T21:45:54.806Z",
+    "gettyId": "2260013019",
+    "alternativeGettyIds": [
+      "1962298734",
+      "1278223982",
+      "641732962",
+      "1332708183"
+    ]
+  },
+  "pages/home/story-health": {
+    "requestedSize": {
+      "width": 800,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "cool",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "one",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2272197903",
+    "searchQuery": "physician surgeon doctor medical professional hospital healthcare",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/869290346",
+      "https://img1.wsimg.com/isteam/getty/2191182540"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:45:59.589Z",
+    "lastUpdated": "2026-08-12T21:45:59.589Z",
+    "gettyId": "2272197903",
+    "alternativeGettyIds": [
+      "869290346",
+      "2191182540"
+    ]
+  },
+  "pages/home/story-latest-3": {
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "cool",
+    "graphicalStyles": "photography",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2279452425",
+    "searchQuery": "medical research healthcare innovation science professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2036497686",
+      "https://img1.wsimg.com/isteam/getty/2280658465"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:45:59.852Z",
+    "lastUpdated": "2026-08-12T21:45:59.852Z",
+    "gettyId": "2279452425",
+    "alternativeGettyIds": [
+      "2036497686",
+      "2280658465"
+    ]
+  },
+  "pages/home/story-finance": {
+    "requestedSize": {
+      "width": 800,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "bold",
+    "graphicalStyles": "photography",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2255085555",
+    "searchQuery": "financial professional wealth management banking investment executive",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2211517317",
+      "https://img1.wsimg.com/isteam/getty/1083212444"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:46:00.660Z",
+    "lastUpdated": "2026-08-12T21:46:00.660Z",
+    "gettyId": "2255085555",
+    "alternativeGettyIds": [
+      "2211517317",
+      "1083212444"
+    ]
+  },
+  "pages/home/story-business": {
+    "requestedSize": {
+      "width": 800,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "bold,dramatic",
+    "graphicalStyles": "photography",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2028295204",
+    "searchQuery": "modern corporate office boardroom executive business meeting",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1365567295",
+      "https://img1.wsimg.com/isteam/getty/2160450436"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:46:00.978Z",
+    "lastUpdated": "2026-08-12T21:46:00.978Z",
+    "gettyId": "2028295204",
+    "alternativeGettyIds": [
+      "1365567295",
+      "2160450436"
+    ]
+  },
+  "pages/home/story-law": {
+    "requestedSize": {
+      "width": 800,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2182419161",
+    "searchQuery": "attorney lawyer legal professional courtroom law firm office",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1937097268",
+      "https://img1.wsimg.com/isteam/getty/2202761531"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T21:46:02.311Z",
+    "lastUpdated": "2026-08-12T21:46:02.311Z",
+    "gettyId": "2182419161",
+    "alternativeGettyIds": [
+      "1937097268",
+      "2202761531"
+    ]
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-fa28f8a6.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/airo-assets/uploads/logo-horizontal-4c90554a.png",
+      "/airo-assets/uploads/logo-horizontal-50d8e107.png",
+      "/airo-assets/uploads/logo-horizontal-d6179384.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/4b431e5b-258a-46ac-a81d-ee65ec07eb7e/horizontal-transparent-055d26ec-6186-4590-95f3-84ea97f89e18/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/5d532448-2bc1-428b-a2ad-2c3b5b6ea196/horizontal-transparent-5cf2b07f-508c-4bda-a90c-6b20fd507966/logo-logo.png"
+    ],
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/1c1da195-8a4d-483e-9aa1-52fc9c568145/horizontal-transparent-a30d4180-0023-41fd-bed8-7e520bddfcac/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/1c1da195-8a4d-483e-9aa1-52fc9c568145/horizontal-mockup-mug-a30d4180-0023-41fd-bed8-7e520bddfcac/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/1c1da195-8a4d-483e-9aa1-52fc9c568145/horizontal-mockup-card-a30d4180-0023-41fd-bed8-7e520bddfcac/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/1c1da195-8a4d-483e-9aa1-52fc9c568145/horizontal-mockup-tshirt-a30d4180-0023-41fd-bed8-7e520bddfcac/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/1c1da195-8a4d-483e-9aa1-52fc9c568145/horizontal-mockup-box-a30d4180-0023-41fd-bed8-7e520bddfcac/logo-logo.png"
+        }
+      ],
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/093cd9ee-7ced-4d03-96d8-0a2f1d1d35fc/horizontal-transparent-7591f45e-e647-4917-b47a-38da55c8a218/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/093cd9ee-7ced-4d03-96d8-0a2f1d1d35fc/horizontal-mockup-mug-7591f45e-e647-4917-b47a-38da55c8a218/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/093cd9ee-7ced-4d03-96d8-0a2f1d1d35fc/horizontal-mockup-card-7591f45e-e647-4917-b47a-38da55c8a218/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/093cd9ee-7ced-4d03-96d8-0a2f1d1d35fc/horizontal-mockup-tshirt-7591f45e-e647-4917-b47a-38da55c8a218/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/093cd9ee-7ced-4d03-96d8-0a2f1d1d35fc/horizontal-mockup-box-7591f45e-e647-4917-b47a-38da55c8a218/logo-logo.png"
+        }
+      ],
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/03b30af3-7545-40db-8e42-46424887e282/horizontal-transparent-a87e5cc7-ab3d-4145-90f8-72d14a56a638/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/03b30af3-7545-40db-8e42-46424887e282/horizontal-mockup-mug-a87e5cc7-ab3d-4145-90f8-72d14a56a638/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/03b30af3-7545-40db-8e42-46424887e282/horizontal-mockup-card-a87e5cc7-ab3d-4145-90f8-72d14a56a638/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/03b30af3-7545-40db-8e42-46424887e282/horizontal-mockup-tshirt-a87e5cc7-ab3d-4145-90f8-72d14a56a638/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/03b30af3-7545-40db-8e42-46424887e282/horizontal-mockup-box-a87e5cc7-ab3d-4145-90f8-72d14a56a638/logo-logo.png"
+        }
+      ],
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/a1564efd-1178-46cb-99c4-e7af086739fe/horizontal-transparent-3f150120-0b95-40f3-877c-89306d590535/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/a1564efd-1178-46cb-99c4-e7af086739fe/horizontal-mockup-mug-3f150120-0b95-40f3-877c-89306d590535/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/a1564efd-1178-46cb-99c4-e7af086739fe/horizontal-mockup-card-3f150120-0b95-40f3-877c-89306d590535/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/a1564efd-1178-46cb-99c4-e7af086739fe/horizontal-mockup-tshirt-3f150120-0b95-40f3-877c-89306d590535/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/a1564efd-1178-46cb-99c4-e7af086739fe/horizontal-mockup-box-3f150120-0b95-40f3-877c-89306d590535/logo-logo.png"
+        }
+      ],
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/a0889e75-51a7-46ca-bbb3-4787701d7e2b/horizontal-transparent-048fcb2d-e8a7-4adf-af74-ce474566f6a0/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/a0889e75-51a7-46ca-bbb3-4787701d7e2b/horizontal-mockup-mug-048fcb2d-e8a7-4adf-af74-ce474566f6a0/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/a0889e75-51a7-46ca-bbb3-4787701d7e2b/horizontal-mockup-card-048fcb2d-e8a7-4adf-af74-ce474566f6a0/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/a0889e75-51a7-46ca-bbb3-4787701d7e2b/horizontal-mockup-tshirt-048fcb2d-e8a7-4adf-af74-ce474566f6a0/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/a0889e75-51a7-46ca-bbb3-4787701d7e2b/horizontal-mockup-box-048fcb2d-e8a7-4adf-af74-ce474566f6a0/logo-logo.png"
+        }
+      ],
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/8d20d986-80a9-420c-a25a-fab8c0d5c4cf/horizontal-transparent-c408f2d3-b367-45b4-9ac0-3effea52c656/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/8d20d986-80a9-420c-a25a-fab8c0d5c4cf/horizontal-mockup-mug-c408f2d3-b367-45b4-9ac0-3effea52c656/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/8d20d986-80a9-420c-a25a-fab8c0d5c4cf/horizontal-mockup-card-c408f2d3-b367-45b4-9ac0-3effea52c656/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/8d20d986-80a9-420c-a25a-fab8c0d5c4cf/horizontal-mockup-tshirt-c408f2d3-b367-45b4-9ac0-3effea52c656/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/8d20d986-80a9-420c-a25a-fab8c0d5c4cf/horizontal-mockup-box-c408f2d3-b367-45b4-9ac0-3effea52c656/logo-logo.png"
+        }
+      ],
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/5d532448-2bc1-428b-a2ad-2c3b5b6ea196/horizontal-transparent-5cf2b07f-508c-4bda-a90c-6b20fd507966/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/5d532448-2bc1-428b-a2ad-2c3b5b6ea196/horizontal-mockup-mug-5cf2b07f-508c-4bda-a90c-6b20fd507966/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/5d532448-2bc1-428b-a2ad-2c3b5b6ea196/horizontal-mockup-card-5cf2b07f-508c-4bda-a90c-6b20fd507966/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/5d532448-2bc1-428b-a2ad-2c3b5b6ea196/horizontal-mockup-tshirt-5cf2b07f-508c-4bda-a90c-6b20fd507966/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/5d532448-2bc1-428b-a2ad-2c3b5b6ea196/horizontal-mockup-box-5cf2b07f-508c-4bda-a90c-6b20fd507966/logo-logo.png"
+        }
+      ],
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/4b431e5b-258a-46ac-a81d-ee65ec07eb7e/horizontal-transparent-055d26ec-6186-4590-95f3-84ea97f89e18/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/4b431e5b-258a-46ac-a81d-ee65ec07eb7e/horizontal-mockup-mug-055d26ec-6186-4590-95f3-84ea97f89e18/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/4b431e5b-258a-46ac-a81d-ee65ec07eb7e/horizontal-mockup-card-055d26ec-6186-4590-95f3-84ea97f89e18/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/4b431e5b-258a-46ac-a81d-ee65ec07eb7e/horizontal-mockup-tshirt-055d26ec-6186-4590-95f3-84ea97f89e18/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/4b431e5b-258a-46ac-a81d-ee65ec07eb7e/horizontal-mockup-box-055d26ec-6186-4590-95f3-84ea97f89e18/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/4b431e5b-258a-46ac-a81d-ee65ec07eb7e/horizontal-mockup-mug-055d26ec-6186-4590-95f3-84ea97f89e18/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/4b431e5b-258a-46ac-a81d-ee65ec07eb7e/horizontal-mockup-card-055d26ec-6186-4590-95f3-84ea97f89e18/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/4b431e5b-258a-46ac-a81d-ee65ec07eb7e/horizontal-mockup-tshirt-055d26ec-6186-4590-95f3-84ea97f89e18/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/4b431e5b-258a-46ac-a81d-ee65ec07eb7e/horizontal-mockup-box-055d26ec-6186-4590-95f3-84ea97f89e18/logo-logo.png"
+      }
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-12T21:46:11.974Z",
+    "lastUpdated": "2026-08-13T00:09:06.663Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#000000",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/4b431e5b-258a-46ac-a81d-ee65ec07eb7e/horizontal-transparent-055d26ec-6186-4590-95f3-84ea97f89e18/logo-logo.png",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-d6179384.png": "dszmgbdi3b_1786578836955_file_RD2YGfHtae.png",
+      "/airo-assets/uploads/logo-horizontal-50d8e107.png": "dszmgbdi3b_1786579159652_file_heSCk3sWll.png",
+      "/airo-assets/uploads/logo-horizontal-4c90554a.png": "dszmgbdi3b_1786579481709_file_xsK4oqgvti.png",
+      "/airo-assets/uploads/logo-horizontal-fa28f8a6.png": "dszmgbdi3b_1786579735844_file_bQj_-CSCIG.png"
+    },
+    "uploadContentHash": "d7388b62a055741857c9cc313554e6c0c601c4b768e25b49a581b373dd8c2667",
+    "naturalOrientation": "horizontal"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/12156393-7374-40a5-b28c-a7a93293e75d/favicon-transparent-b41bba95-c739-4a16-aa26-1e3c1f3642b4/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/c1b1565a-dfdd-4244-b463-fafa29433aea/favicon-transparent-3d40aff7-26ae-467c-90a3-b799712c81d8/logo-logo.png": {
+        "sessionId": "c1b1565a-dfdd-4244-b463-fafa29433aea",
+        "logoId": "3d40aff7-26ae-467c-90a3-b799712c81d8",
+        "groupId": "723fb802-31f3-42ee-afa0-1f2cc51bb599"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/1475f175-e6d6-47b4-a647-f1a6feaff375/favicon-transparent-89c4b9fd-9603-4996-a26f-06244dfb5012/logo-logo.png": {
+        "sessionId": "1475f175-e6d6-47b4-a647-f1a6feaff375",
+        "logoId": "89c4b9fd-9603-4996-a26f-06244dfb5012",
+        "groupId": "b7d96bad-ff01-4704-ad28-d090a8470951"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/e1c42162-c876-4760-b76a-8f3e54ed77b1/favicon-transparent-9acdbd35-fbd9-4f91-9645-97ba15ec254e/logo-logo.png": {
+        "sessionId": "e1c42162-c876-4760-b76a-8f3e54ed77b1",
+        "logoId": "9acdbd35-fbd9-4f91-9645-97ba15ec254e",
+        "groupId": "33216159-7be7-4bed-a356-8e41a72d2c82"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/12156393-7374-40a5-b28c-a7a93293e75d/favicon-transparent-b41bba95-c739-4a16-aa26-1e3c1f3642b4/logo-logo.png": {
+        "sessionId": "12156393-7374-40a5-b28c-a7a93293e75d",
+        "logoId": "b41bba95-c739-4a16-aa26-1e3c1f3642b4",
+        "groupId": "afb2d5ea-c83c-43ba-a5c0-5a93d6c0d109"
+      }
+    },
+    "logoGroupId": "afb2d5ea-c83c-43ba-a5c0-5a93d6c0d109",
+    "userModified": false,
+    "createdAt": "2026-08-12T21:46:35.826Z",
+    "lastUpdated": "2026-08-13T00:00:28.611Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#000000",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/562780dc-e804-4043-a667-b4ef6421d53a/session/12156393-7374-40a5-b28c-a7a93293e75d/favicon-transparent-b41bba95-c739-4a16-aa26-1e3c1f3642b4/logo-logo.png"
+  },
+  "press-releases/gregory-e-boske-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-gregory-e-boske-portrait-8b22b417.png",
+    "searchQuery": "man with beard wearing glasses smiling",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T22:38:06.331Z",
+    "lastUpdated": "2026-08-12T22:38:06.331Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-gregory-e-boske-portrait-8b22b417.png": "dszmgbdi3b_1786574134158_file_ZsAIZjdI3y.png"
+    },
+    "uploadContentHash": "6f41661d144f895133c79cc5eae7874bbc3d1216c9bbc0156916e956cefac845",
+    "caption": "man with beard wearing glasses smiling"
+  },
+  "press-releases/elery-rusty-shoemaker-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-elery-rusty-shoemaker-portrait-1161d79a.jpg",
+    "searchQuery": "older man wearing glasses formal portrait",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T22:42:11.949Z",
+    "lastUpdated": "2026-08-12T22:42:11.949Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-elery-rusty-shoemaker-portrait-1161d79a.jpg": "dszmgbdi3b_1786574510141_file_UGv_Q7qCi9.jpeg"
+    },
+    "uploadContentHash": "164c3a34b14892710cd4fe111e35ae68a63e51531afd257a40312e37ab76f17c",
+    "caption": "older man wearing glasses formal portrait"
+  },
+  "press-releases/adam-silevitch-dmd-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-adam-silevitch-dmd-portrait-f99a04e9.jpg",
+    "searchQuery": "man smiling wearing navy polo shirt",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T22:44:12.351Z",
+    "lastUpdated": "2026-08-12T22:44:12.351Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-adam-silevitch-dmd-portrait-f99a04e9.jpg": "dszmgbdi3b_1786574634409_file_dBfupqbpJ9.jpg"
+    },
+    "uploadContentHash": "82ed47000c632f1571cc677f32cf3edf44464b967fa81af2b5ab8d250596b408",
+    "caption": "man smiling wearing navy polo shirt"
+  },
+  "press-releases/david-d-van-fleet-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-david-d-van-fleet-portrait-809e24a5.webp",
+    "searchQuery": "older man wearing glasses red tie",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T22:46:18.547Z",
+    "lastUpdated": "2026-08-12T22:46:18.547Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-david-d-van-fleet-portrait-809e24a5.webp": "dszmgbdi3b_1786574763053_file_LozTB8Bq4B.webp"
+    },
+    "uploadContentHash": "2d60048d1d6c10fada7d4b32bdb533f71654108930ac3947ec411fa8bc748b9f",
+    "caption": "older man wearing glasses red tie"
+  },
+  "press-releases/frances-iger-laterman-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-frances-iger-laterman-portrait-3e8f5ecf.jpg",
+    "searchQuery": "older woman smiling wearing blue shirt",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T22:48:49.337Z",
+    "lastUpdated": "2026-08-12T22:48:49.337Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-frances-iger-laterman-portrait-3e8f5ecf.jpg": "dszmgbdi3b_1786574909479_file_GCuhv9xJy3.jpeg"
+    },
+    "uploadContentHash": "0e90d014686b8907ca366ecef10e64377e8e522b6fd1a7c03c5dd0a65a343854",
+    "caption": "older woman smiling wearing blue shirt"
+  },
+  "press-releases/charles-l-cooper-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-charles-l-cooper-portrait-d6a30118.jpg",
+    "searchQuery": "man in business suit smiling outdoors",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T22:50:44.093Z",
+    "lastUpdated": "2026-09-22T15:11:33.753Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-charles-l-cooper-portrait-d6a30118.jpg": "dszmgbdi3b_1790089883051_file_PmBUmEQ6yb.jpg"
+    },
+    "uploadContentHash": "a03864a7bf89b1ae6ab84a57ed7650afcfb6ae2556f6c460bb22c4c67abb3b59",
+    "caption": "man in business suit smiling outdoors"
+  },
+  "press-releases/richard-favorito-alpine-snow-portrait": {
+    "requestedSize": {
+      "width": 1200,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "compositions": "wide_shot",
+    "moods": "bold,dramatic",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2263882632",
+    "searchQuery": "commercial snow plow truck clearing parking lot winter storm professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1440264506",
+      "https://img1.wsimg.com/isteam/getty/2262130279"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T22:52:39.872Z",
+    "lastUpdated": "2026-08-12T22:52:39.872Z",
+    "gettyId": "2263882632",
+    "alternativeGettyIds": [
+      "1440264506",
+      "2262130279"
+    ]
+  },
+  "press-releases/jared-steven-videll-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-jared-steven-videll-portrait-508bba71.webp",
+    "searchQuery": "middle-aged man wearing glasses smiling",
+    "alternatives": [
+      "/airo-assets/uploads/press-releases-jared-steven-videll-portrait-81c134d2.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-12T22:54:32.925Z",
+    "lastUpdated": "2026-09-22T15:25:16.186Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-jared-steven-videll-portrait-81c134d2.jpg": "dszmgbdi3b_1786575252779_file_pAb_tONxju.jpg",
+      "/airo-assets/uploads/press-releases-jared-steven-videll-portrait-508bba71.webp": "dszmgbdi3b_1790090704390_file_1ve0cBE5qB.jpg"
+    },
+    "uploadContentHash": "01ea1e4c3be48850aba738454567f12dea75fd07f4c041087cac4a844d44c3f6",
+    "caption": "middle-aged man wearing glasses smiling"
+  },
+  "press-releases/gabrielle-torress-discard-junk-removal": {
+    "requestedSize": {
+      "width": 1200,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "compositions": "wide_shot",
+    "moods": "bold",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2166104383",
+    "searchQuery": "junk removal truck crew loading furniture residential property cleanout professional service",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2285496328",
+      "https://img1.wsimg.com/isteam/getty/2282002029"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-12T22:59:06.192Z",
+    "lastUpdated": "2026-08-12T22:59:06.192Z",
+    "gettyId": "2166104383",
+    "alternativeGettyIds": [
+      "2285496328",
+      "2282002029"
+    ]
+  },
+  "press-releases/marinella-chvatal-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-marinella-chvatal-portrait-ad4f9d36.jpg",
+    "searchQuery": "woman with dark hair smiling at camera",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T23:01:38.464Z",
+    "lastUpdated": "2026-08-12T23:01:38.464Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-marinella-chvatal-portrait-ad4f9d36.jpg": "dszmgbdi3b_1786575671403_file_qkHF5AiqBQ.jpg"
+    },
+    "uploadContentHash": "ac05b50a5fb191a3c2df8f70cb3ef58fb961a24d91842ddcc7837e8c312245b0",
+    "caption": "woman with dark hair smiling at camera"
+  },
+  "press-releases/philip-berry-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-philip-berry-portrait-d904cd46.jpg",
+    "searchQuery": "man in blue suit professional portrait",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T23:03:34.609Z",
+    "lastUpdated": "2026-08-12T23:03:34.609Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-philip-berry-portrait-d904cd46.jpg": "dszmgbdi3b_1786575800899_file__TbWLjJbiC.jpeg"
+    },
+    "uploadContentHash": "09a412549232a0c4e421dab32b979536d21296b68587b3720e1c6a9d01b88483",
+    "caption": "man in blue suit professional portrait"
+  },
+  "press-releases/kathleen-m-werner-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-kathleen-m-werner-portrait-77b6bccb.jpg",
+    "searchQuery": "woman smiling law library background",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T23:05:37.698Z",
+    "lastUpdated": "2026-08-12T23:05:37.698Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-kathleen-m-werner-portrait-77b6bccb.jpg": "dszmgbdi3b_1786575924887_file_solfIzbznn.jpg"
+    },
+    "uploadContentHash": "439f7fefcfaffd24c2b2dd60c14cb6538797f7ad636b3b7e34739da292f251e9",
+    "caption": "woman smiling law library background"
+  },
+  "press-releases/stan-schekall-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-stan-schekall-portrait-396df2b1.jpg",
+    "searchQuery": "man with dark hair and beard outdoors",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T23:08:02.295Z",
+    "lastUpdated": "2026-08-12T23:08:02.295Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-stan-schekall-portrait-396df2b1.jpg": "dszmgbdi3b_1786576069990_file_KO_BX4TJoT.jpg"
+    },
+    "uploadContentHash": "14443387fc3ee2944e456c9bf235adb6c882a4912a701f4929a3a29e25b37b7e",
+    "caption": "man with dark hair and beard outdoors"
+  },
+  "press-releases/cha-mei-tang-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-cha-mei-tang-portrait-98cfff20.webp",
+    "searchQuery": "woman wearing red blazer glasses portrait",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T23:10:29.846Z",
+    "lastUpdated": "2026-08-12T23:10:29.846Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-cha-mei-tang-portrait-98cfff20.webp": "dszmgbdi3b_1786576201034_file_i2BC3lEo0k.webp"
+    },
+    "uploadContentHash": "cec18ee0fea00a0161269525d4eb891abc136feb162a260eec1b86685d13e682",
+    "caption": "woman wearing red blazer glasses portrait"
+  },
+  "press-releases/dennis-j-ibold-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-dennis-j-ibold-portrait-dce8538a.jpg",
+    "searchQuery": "middle-aged man wearing glasses and suit",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T23:13:10.742Z",
+    "lastUpdated": "2026-08-12T23:13:10.742Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-dennis-j-ibold-portrait-dce8538a.jpg": "dszmgbdi3b_1786576377839_file__QafB7dAEz.jpg"
+    },
+    "uploadContentHash": "30a30397394f3630efb7b10851f6458e4af0ca684b31e6ba26c0c201e271d3c0",
+    "caption": "middle-aged man wearing glasses and suit"
+  },
+  "press-releases/ana-eugenia-ferreira-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-ana-eugenia-ferreira-portrait-8c7a65fa.jpg",
+    "searchQuery": "woman smiling in front of bookshelf",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-12T23:15:49.147Z",
+    "lastUpdated": "2026-08-12T23:15:49.147Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-ana-eugenia-ferreira-portrait-8c7a65fa.jpg": "dszmgbdi3b_1786576532536_file_cF-7kWihfn.jpg"
+    },
+    "uploadContentHash": "d2e669f761c247c92670f8d3302213a72379c6c6b2c21dd79828e9a0691c593e",
+    "caption": "woman smiling in front of bookshelf"
+  },
+  "logo/vertical": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-50d8e107.png",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-13T00:02:39.542Z",
+    "lastUpdated": "2026-08-13T00:02:39.542Z",
+    "naturalOrientation": "vertical",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-50d8e107.png": "dszmgbdi3b_1786579159652_file_heSCk3sWll.png"
+    }
+  },
+  "magazines/business-cover-vol12-aug2026": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/magazines-business-cover-vol12-aug2026-7d9977d1.png",
+    "searchQuery": "professional doctor magazine cover portrait",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-13T16:49:09.315Z",
+    "lastUpdated": "2026-08-13T16:49:09.315Z",
+    "uploadSources": {
+      "/airo-assets/uploads/magazines-business-cover-vol12-aug2026-7d9977d1.png": "dszmgbdi3b_1786639693066_file_GjyAzY0nkL.png"
+    },
+    "uploadContentHash": "fb50a86bfb5f53e07888deeb593d11c57ecbb5382e7d752e066d888d5f598b0f",
+    "caption": "professional doctor magazine cover portrait"
+  },
+  "press-releases/graham-h-davis-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-graham-h-davis-portrait-ec01d4f9.jpg",
+    "searchQuery": "older man with glasses wearing blue jacket",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-13T19:16:01.387Z",
+    "lastUpdated": "2026-08-13T19:16:01.387Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-graham-h-davis-portrait-ec01d4f9.jpg": "dszmgbdi3b_1786648537413_file_X4p6Y5gHm2.jpeg"
+    },
+    "uploadContentHash": "3e326cd5d7632c4de86dcf70fc4e2e7a16e6cbb81bd61f25199238dad4059b48",
+    "caption": "older man with glasses wearing blue jacket"
+  },
+  "press-releases/amor-r-mehta-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-amor-r-mehta-portrait-11eb5e74.jpg",
+    "searchQuery": "man in gray suit at neuroscience center",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T14:45:47.389Z",
+    "lastUpdated": "2026-09-22T14:45:47.389Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-amor-r-mehta-portrait-11eb5e74.jpg": "dszmgbdi3b_1790088334453_file_b6kZAIzZfk.jpg"
+    },
+    "uploadContentHash": "53514a29b758098744834d6cad70aad7f3c922fa69ce5c8e01aa918b913e0753",
+    "caption": "man in gray suit at neuroscience center"
+  },
+  "press-releases/faye-ann-brenner-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-faye-ann-brenner-portrait-03e0016d.webp",
+    "searchQuery": "mature woman with gray hair portrait",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T14:55:20.137Z",
+    "lastUpdated": "2026-09-22T14:55:20.137Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-faye-ann-brenner-portrait-03e0016d.webp": "dszmgbdi3b_1790088908688_file_gR44UUOpWl.webp"
+    },
+    "uploadContentHash": "9c94e7686c82f9cfa055e9667989c39b8961da0852e60023b52e98e3f489b7ce",
+    "caption": "mature woman with gray hair portrait"
+  },
+  "press-releases/kristina-m-mcgahan-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-kristina-m-mcgahan-portrait-84ddf75a.webp",
+    "searchQuery": "healthcare professional smiling with stethoscope",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T15:01:07.746Z",
+    "lastUpdated": "2026-09-22T15:01:07.746Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-kristina-m-mcgahan-portrait-84ddf75a.webp": "dszmgbdi3b_1790089249341_file_3UUrQ4uU0z.webp"
+    },
+    "uploadContentHash": "9ad7a3347bed46f4a102c19a86dbadeb877117178124125308a18914f9dfc479",
+    "caption": "healthcare professional smiling with stethoscope"
+  },
+  "press-releases/miklos-toth-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-miklos-toth-portrait-f5279a27.jpg",
+    "searchQuery": "older man wearing glasses blue shirt",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T15:06:36.955Z",
+    "lastUpdated": "2026-09-22T15:06:36.955Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-miklos-toth-portrait-f5279a27.jpg": "dszmgbdi3b_1790089586173_file_LnirJwLBfz.jpg"
+    },
+    "uploadContentHash": "fe401e6579dd55f68abb38e63f69706c663f96d78d4b307f453d05ba4321905b",
+    "caption": "older man wearing glasses blue shirt"
+  },
+  "press-releases/gabriel-torres-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-gabriel-torres-portrait-f3d0d842.jpg",
+    "searchQuery": "man wearing glasses and tie indoors",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T15:31:01.750Z",
+    "lastUpdated": "2026-09-22T15:31:01.750Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-gabriel-torres-portrait-f3d0d842.jpg": "dszmgbdi3b_1790091050312_file_oLmkPD59ko.jpeg"
+    },
+    "uploadContentHash": "1b161bb493f554d72efe2b6fba3546b1fd63a5e4f2d44b02df48c689a34ed5e4",
+    "caption": "man wearing glasses and tie indoors"
+  },
+  "press-releases/jean-mineo-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-jean-mineo-portrait-58357bc6.png",
+    "searchQuery": "woman smiling professional headshot portrait",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T17:09:41.126Z",
+    "lastUpdated": "2026-09-22T17:09:41.126Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-jean-mineo-portrait-58357bc6.png": "dszmgbdi3b_1790096963429_file__TsWNjTdz0.png"
+    },
+    "uploadContentHash": "10b1de07f383c7d5a1ae83ee302eb7720fbf349d2fee4a2976789dc22f98af75",
+    "caption": "woman smiling professional headshot portrait"
+  },
+  "press-releases/lawrence-steven-cosentino-industry": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-lawrence-steven-cosentino-industry-5d0c62b6.png",
+    "searchQuery": "industrial safety compliance checklist refinery",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T17:14:59.180Z",
+    "lastUpdated": "2026-09-22T17:14:59.180Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-lawrence-steven-cosentino-industry-5d0c62b6.png": "dszmgbdi3b_1790097281777_file_ugASaWCUDV.png"
+    },
+    "uploadContentHash": "37d7a862393100f26be639807385f1f2be53defede6e7ced59d70315bac9d93d",
+    "caption": "industrial safety compliance checklist refinery"
+  },
+  "press-releases/donald-massenburg-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-donald-massenburg-portrait-46e1a64b.webp",
+    "searchQuery": "man wearing glasses formal portrait",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T17:20:49.696Z",
+    "lastUpdated": "2026-09-22T17:20:49.696Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-donald-massenburg-portrait-46e1a64b.webp": "dszmgbdi3b_1790097637074_file_cZ9OXc5wzl.webp"
+    },
+    "uploadContentHash": "8e1e0c11015fcec2542ef0022edff4deee2812b94823819843b196d1652e507f",
+    "caption": "man wearing glasses formal portrait"
+  },
+  "press-releases/steven-m-grimes-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-steven-m-grimes-portrait-cb74192e.jpg",
+    "searchQuery": "elderly man wearing glasses and bow tie",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T17:25:45.533Z",
+    "lastUpdated": "2026-09-22T17:25:45.533Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-steven-m-grimes-portrait-cb74192e.jpg": "dszmgbdi3b_1790097935315_file_lvW_EJFbKU.jpg"
+    },
+    "uploadContentHash": "040703656648ebbdea0d412a98a2c56daad1c1404dd150a782276a97c96ca4f8",
+    "caption": "elderly man wearing glasses and bow tie"
+  },
+  "press-releases/mary-jo-iozzio-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-mary-jo-iozzio-portrait-82c9fdc1.jpg",
+    "searchQuery": "middle-aged man wearing glasses smiling portrait",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T17:41:18.030Z",
+    "lastUpdated": "2026-09-22T17:41:18.030Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-mary-jo-iozzio-portrait-82c9fdc1.jpg": "dszmgbdi3b_1790098863313_file_aEyZD3i-f0.jpg"
+    },
+    "uploadContentHash": "1f8843945b383fae6157daa52328190146b61195d4a8c06e79d7f58016a278fd",
+    "caption": "middle-aged man wearing glasses smiling portrait"
+  },
+  "press-releases/ilene-fennoy-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-ilene-fennoy-portrait-be35d847.jpg",
+    "searchQuery": "woman wearing glasses smiling portrait",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T19:51:18.814Z",
+    "lastUpdated": "2026-09-22T19:51:18.814Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-ilene-fennoy-portrait-be35d847.jpg": "dszmgbdi3b_1790106667591_file_S1Rgc9IZq4.jpg"
+    },
+    "uploadContentHash": "80683e8fe0f6a6614a56e112eccc1fefad6010ad9a501ce263322dbee2f2db6d",
+    "caption": "woman wearing glasses smiling portrait"
+  },
+  "press-releases/diane-m-carbo-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-diane-m-carbo-portrait-34f785ba.jpg",
+    "searchQuery": "older woman sitting outdoor garden bench",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T20:08:23.870Z",
+    "lastUpdated": "2026-09-22T20:08:23.870Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-diane-m-carbo-portrait-34f785ba.jpg": "dszmgbdi3b_1790107496242_file_ZSEORBr7nP.jpg"
+    },
+    "uploadContentHash": "fa6bcd3af7341c9fe63307d1b2fe1fc9238cf01a418c83b64090b2132cf00f27",
+    "caption": "older woman sitting outdoor garden bench"
+  },
+  "press-releases/leanne-katz-levin-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-leanne-katz-levin-portrait-7fe9bc43.webp",
+    "searchQuery": "woman with dark hair smiling outdoors",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T20:11:03.200Z",
+    "lastUpdated": "2026-09-22T20:11:03.200Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-leanne-katz-levin-portrait-7fe9bc43.webp": "dszmgbdi3b_1790107852005_file_7Xs3Dvn06Z.webp"
+    },
+    "uploadContentHash": "f01d837f5c98ff3eb8a92d239217a9e2edec46fb08b661525c77faae79ee28b1",
+    "caption": "woman with dark hair smiling outdoors"
+  },
+  "press-releases/l-zane-shuck-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-l-zane-shuck-portrait-3571bbad.jpg",
+    "searchQuery": "senior man wearing glasses formal suit",
+    "alternatives": [
+      "/airo-assets/uploads/press-releases-l-zane-shuck-portrait-44d9bcd4.webp"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-22T20:21:27.342Z",
+    "lastUpdated": "2026-09-22T20:23:20.955Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-l-zane-shuck-portrait-44d9bcd4.webp": "dszmgbdi3b_1790108471337_file_LeGug7GKcL.webp",
+      "/airo-assets/uploads/press-releases-l-zane-shuck-portrait-3571bbad.jpg": "dszmgbdi3b_1790108541496_file_WnML-iXaby.jpeg"
+    },
+    "uploadContentHash": "19af19643cf49b32cd914e082bbd133e70b2a1b4adc06d0aabe3596feaa1f7bf",
+    "caption": "senior man wearing glasses formal suit"
+  },
+  "press-releases/lauren-clark-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-lauren-clark-portrait-8ba69230.jpg",
+    "searchQuery": "woman with bangs smiling at camera",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T20:31:01.391Z",
+    "lastUpdated": "2026-09-22T20:31:01.391Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-lauren-clark-portrait-8ba69230.jpg": "dszmgbdi3b_1790109050941_file_zdMj0Bx6yn.jpg"
+    },
+    "uploadContentHash": "645506a8e9197a4969ee8c7ca1eae40136317f2f39901abab0f6dcab73f2ebcf",
+    "caption": "woman with bangs smiling at camera"
+  },
+  "press-releases/ronald-berenbeim-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-ronald-berenbeim-portrait-9c1c18af.jpg",
+    "searchQuery": "older man with gray beard wearing glasses",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T20:38:24.537Z",
+    "lastUpdated": "2026-09-22T20:38:24.537Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-ronald-berenbeim-portrait-9c1c18af.jpg": "dszmgbdi3b_1790109488110_file_iVEN926F18.jpg"
+    },
+    "uploadContentHash": "4a0d1c6131d221b907dce3462ffb309d563416853064ccbf0bde66c8035e799a",
+    "caption": "older man with gray beard wearing glasses"
+  },
+  "press-releases/merle-s-robboy-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-merle-s-robboy-portrait-a4047b5f.jpg",
+    "searchQuery": "man wearing glasses business suit portrait",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T20:51:07.610Z",
+    "lastUpdated": "2026-09-22T20:51:07.610Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-merle-s-robboy-portrait-a4047b5f.jpg": "dszmgbdi3b_1790110254141_file_zzvj46zodi.jpg"
+    },
+    "uploadContentHash": "b110b4e63f8da1d37de48695048f6fd32d8163462b73ca94093f0b3e69745e6c",
+    "caption": "man wearing glasses business suit portrait"
+  },
+  "press-releases/richard-b-dunn-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-richard-b-dunn-portrait-33fc87ab.jpg",
+    "searchQuery": "male doctor wearing white lab coat",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T20:59:16.276Z",
+    "lastUpdated": "2026-09-22T20:59:16.276Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-richard-b-dunn-portrait-33fc87ab.jpg": "dszmgbdi3b_1790110735229_file_HIbjSXJQIZ.jpg"
+    },
+    "uploadContentHash": "b9f9323fc783890c45024ac9c2be258e7e826befd54c765bb18808600b0ea289",
+    "caption": "male doctor wearing white lab coat"
+  },
+  "press-releases/carol-s-spalding-portrait": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/press-releases-carol-s-spalding-portrait-4fbce609.jpg",
+    "searchQuery": "mature woman smiling at camera outdoors",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-22T21:19:24.755Z",
+    "lastUpdated": "2026-09-22T21:19:24.755Z",
+    "uploadSources": {
+      "/airo-assets/uploads/press-releases-carol-s-spalding-portrait-4fbce609.jpg": "dszmgbdi3b_1790111952404_file_PRdSxm7VZI.jpg"
+    },
+    "uploadContentHash": "4492d3693c8d3a6c1bc050ed42a80f95c5dd52e56a1ed580bdac298acd755e0a",
+    "caption": "mature woman smiling at camera outdoors"
+  }
+}

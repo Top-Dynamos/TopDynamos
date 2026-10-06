@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px; height: 630px; overflow: hidden;
+    background: #0a0a0a;
+    font-family: Georgia, 'Times New Roman', serif;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .bg {
+    position: absolute; inset: 0;
+    background: radial-gradient(ellipse at 30% 50%, rgba(212,175,55,0.08) 0%, transparent 60%);
+  }
+  .border-top {
+    position: absolute; top: 0; left: 0; right: 0; height: 3px;
+    background: #D4AF37;
+  }
+  .border-bottom {
+    position: absolute; bottom: 0; left: 0; right: 0; height: 3px;
+    background: #D4AF37;
+  }
+  .content {
+    position: relative; z-index: 10;
+    padding: 0 80px;
+    max-width: 900px;
+  }
+  .gold-line {
+    width: 48px; height: 2px; background: #D4AF37; margin-bottom: 28px;
+  }
+  .publication {
+    font-size: 13px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: rgba(255,255,255,0.4); margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+  }
+  h1 {
+    font-size: 58px; line-height: 1.1; color: #fff;
+    font-weight: 700; margin-bottom: 20px;
+    letter-spacing: -0.02em;
+  }
+  h1 span { color: #D4AF37; }
+  .tagline {
+    font-size: 18px; color: rgba(255,255,255,0.5);
+    font-family: Arial, sans-serif; font-weight: 400;
+    letter-spacing: 0.02em;
+  }
+  .logo-area {
+    position: absolute; bottom: 40px; right: 80px;
+    text-align: right;
+  }
+  .logo-text {
+    font-size: 22px; font-weight: 700; color: #D4AF37;
+    letter-spacing: 0.08em; text-transform: uppercase;
+  }
+  .logo-sub {
+    font-size: 10px; color: rgba(255,255,255,0.3);
+    letter-spacing: 0.15em; text-transform: uppercase;
+    font-family: Arial, sans-serif; margin-top: 4px;
+  }
+  .grid-lines {
+    position: absolute; inset: 0; pointer-events: none;
+    background-image:
+      linear-gradient(rgba(212,175,55,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(212,175,55,0.03) 1px, transparent 1px);
+    background-size: 60px 60px;
+  }
+</style>
+</head>
+<body>
+  <div class="bg"></div>
+  <div class="grid-lines"></div>
+  <div class="border-top"></div>
+  <div class="border-bottom"></div>
+  <div class="content">
+    <div class="publication">Premium National Media Publication</div>
+    <div class="gold-line"></div>
+    <h1>Stories of <span>Leadership,</span><br>Innovation &amp;<br>Achievement</h1>
+    <p class="tagline">Covering the professionals, organizations, and ideas<br>shaping today's world.</p>
+  </div>
+  <div class="logo-area">
+    <div class="logo-text">Dynamo Times</div>
+    <div class="logo-sub">dynamotimes.com</div>
+  </div>
+</body>
+</html>
