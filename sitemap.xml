@@ -37,6 +37,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://thedynamotimes.com/business</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://thedynamotimes.com/contact</loc>
     <priority>0.9</priority>
   </url>
@@ -46,6 +50,18 @@
   </url>
   <url>
     <loc>https://thedynamotimes.com/editorial-policy</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/education</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/finance</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/health</loc>
     <priority>0.9</priority>
   </url>
   <url>
@@ -82,6 +98,10 @@
   </url>
   <url>
     <loc>https://thedynamotimes.com/latest</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/law</loc>
     <priority>0.9</priority>
   </url>
   <url>
@@ -583,6 +603,10 @@
   <url>
     <loc>https://thedynamotimes.com/profiles/steven-m-grimes</loc>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/science-technology</loc>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://thedynamotimes.com/sponsored-content-policy</loc>
