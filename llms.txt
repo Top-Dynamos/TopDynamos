@@ -70,6 +70,15 @@
 - [Marvin J. Schwarz, MD, JD, Has Spent Seven Decades Speaking Up for Patients the System Overlooks](https://thedynamotimes.com/press-releases/marvin-j-schwarz-adolescent-psychiatry-health-law)
 - [David P. Garner Went From Artillery Batteries in Vietnam to Helping New NATO Members Learn to Supply Their Forces](https://thedynamotimes.com/press-releases/david-p-garner-marine-officer-nato-logistics)
 - [Ken Clapp Started Out Hanging Around a Race Garage at 12 and Helped Carry NASCAR to the West Coast and Beyond](https://thedynamotimes.com/press-releases/ken-clapp-nascar-west-coast-motorsports)
+- [Dr. Ryan Fillmore Works the Hours After a Stroke or Seizure, When Every Minute Decides What a Patient Keeps](https://thedynamotimes.com/press-releases/ryan-fillmore-md-neurocritical-care-stroke)
+- [Dr. Aashish Valvani Follows His Patients From the Clinic to the ICU and Back, Because Breathing Problems Rarely Stay in One Place](https://thedynamotimes.com/press-releases/aashish-valvani-md-pulmonary-critical-care-flint)
+- [Philip Berry Took Human Resources Work to More Than 60 Countries, and Now Coaches the Leaders Who Follow](https://thedynamotimes.com/press-releases/philip-berry-global-hr-leadership-public-service)
+- [Before Creatv Looked for Cancer in Blood, Cha Mei Tang Led Accelerator Physics Research for the Navy](https://thedynamotimes.com/press-releases/cha-mei-tang-physics-naval-research-microfabrication)
+- [From Gas Wells to the Human Gut: L. Zane Shuck Applies Six Decades of Engineering to Two Very Different Problems](https://thedynamotimes.com/press-releases/l-zane-shuck-gas-wells-gut-capsule-patents)
+- [Four Patents and a Screw On Ring: How Allan Jung Built a Product Line for Planter Gauge Wheels](https://thedynamotimes.com/press-releases/allan-jung-patents-gauge-wheel-product-line)
+- [Mary Jo Iozzio's Books, Journals and Advisory Work Carry Disability Justice Beyond the Classroom](https://thedynamotimes.com/press-releases/mary-jo-iozzio-books-editing-ethics-service)
+- [Sixteen Cameras and One FPGA: Inside the Engineering Projects of Stan Schekall](https://thedynamotimes.com/press-releases/stan-schekall-fpga-projects-asic-career)
+- [From Trauma ICUs to Disaster Mental Health: Amy Salanty Builds a Practice Around the Whole Patient](https://thedynamotimes.com/press-releases/amy-salanty-trauma-icu-disaster-mental-health)
 
 ## Profiles
 - [Richard B. Dunn](https://thedynamotimes.com/profiles/richard-b-dunn)
@@ -119,6 +128,8 @@
 - [Marvin J. Schwarz](https://thedynamotimes.com/profiles/marvin-j-schwarz)
 - [David P. Garner](https://thedynamotimes.com/profiles/david-p-garner)
 - [Ken Clapp](https://thedynamotimes.com/profiles/ken-clapp)
+- [Ryan Fillmore](https://thedynamotimes.com/profiles/ryan-fillmore)
+- [Aashish Valvani](https://thedynamotimes.com/profiles/aashish-valvani)
 
 ## Pages
 - [Home](https://thedynamotimes.com/)

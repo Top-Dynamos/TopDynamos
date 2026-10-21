@@ -9,10 +9,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://thedynamotimes.com/advertising</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://thedynamotimes.com/article/featured-story</loc>
     <priority>0.7</priority>
   </url>
@@ -37,31 +33,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://thedynamotimes.com/business</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://thedynamotimes.com/contact</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://thedynamotimes.com/corrections</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://thedynamotimes.com/editorial-policy</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://thedynamotimes.com/education</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://thedynamotimes.com/finance</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://thedynamotimes.com/health</loc>
     <priority>0.9</priority>
   </url>
   <url>
@@ -101,10 +73,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://thedynamotimes.com/law</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://thedynamotimes.com/magazines</loc>
     <priority>0.9</priority>
   </url>
@@ -141,6 +109,10 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://thedynamotimes.com/press-releases/aashish-valvani-md-pulmonary-critical-care-flint</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://thedynamotimes.com/press-releases/adam-silevitch-dmd</loc>
     <priority>0.7</priority>
   </url>
@@ -149,11 +121,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://thedynamotimes.com/press-releases/allan-jung-patents-gauge-wheel-product-line</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://thedynamotimes.com/press-releases/amor-r-mehta-epilepsy-neurology</loc>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://thedynamotimes.com/press-releases/amy-salanty-psychiatric-nursing-mental-health</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/press-releases/amy-salanty-trauma-icu-disaster-mental-health</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -182,6 +162,10 @@
   </url>
   <url>
     <loc>https://thedynamotimes.com/press-releases/cha-mei-tang-microfilter-camls-discovery</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/press-releases/cha-mei-tang-physics-naval-research-microfabrication</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -329,6 +313,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://thedynamotimes.com/press-releases/l-zane-shuck-gas-wells-gut-capsule-patents</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://thedynamotimes.com/press-releases/lauren-clark-tailsaway-pet-sitting-dog-walking</loc>
     <priority>0.7</priority>
   </url>
@@ -357,6 +345,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://thedynamotimes.com/press-releases/mary-jo-iozzio-books-editing-ethics-service</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://thedynamotimes.com/press-releases/mary-jo-iozzio-moral-theology-disability-ethics</loc>
     <priority>0.7</priority>
   </url>
@@ -370,6 +362,10 @@
   </url>
   <url>
     <loc>https://thedynamotimes.com/press-releases/miklos-toth-neuropharmacology-epigenetics</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/press-releases/philip-berry-global-hr-leadership-public-service</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -393,11 +389,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://thedynamotimes.com/press-releases/ryan-fillmore-md-neurocritical-care-stroke</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://thedynamotimes.com/press-releases/shannon-w-jones-iii-public-health-travis-county</loc>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://thedynamotimes.com/press-releases/stan-schekall-ai-satellite-wheelchair</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/press-releases/stan-schekall-fpga-projects-asic-career</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -409,12 +413,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://thedynamotimes.com/privacy-policy</loc>
+    <loc>https://thedynamotimes.com/profiles</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://thedynamotimes.com/profiles</loc>
-    <priority>0.9</priority>
+    <loc>https://thedynamotimes.com/profiles/aashish-valvani</loc>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://thedynamotimes.com/profiles/adam-silevitch</loc>
@@ -593,6 +597,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://thedynamotimes.com/profiles/ryan-fillmore</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://thedynamotimes.com/profiles/shannon-w-jones-iii</loc>
     <priority>0.7</priority>
   </url>
@@ -605,19 +613,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://thedynamotimes.com/science-technology</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://thedynamotimes.com/sponsored-content-policy</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://thedynamotimes.com/submit-news</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://thedynamotimes.com/terms-of-use</loc>
     <priority>0.9</priority>
   </url>
 </urlset>
