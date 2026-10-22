@@ -80,9 +80,10 @@
 - [Sixteen Cameras and One FPGA: Inside the Engineering Projects of Stan Schekall](https://thedynamotimes.com/press-releases/stan-schekall-fpga-projects-asic-career)
 - [From Trauma ICUs to Her Own Practice: Amy Salanty Opens Purple Elephant Psychiatry & Wellness](https://thedynamotimes.com/press-releases/amy-salanty-trauma-icu-disaster-mental-health)
 - [Jay Adoni: From a Shoe Factory Shipping Room to Five Decades as a New York Entrepreneur](https://thedynamotimes.com/press-releases/jay-adoni-entrepreneur-fashion-real-estate)
-- [Jay Adoni Puts Five Decades of New York Business Online With the Launch of JayAdoni.com](https://thedynamotimes.com/press-releases/jay-adoni-launches-jayadoni-com)
+- [Jacob "Jay" Adoni Puts Five Decades of New York Business Online With the Launch of JayAdoni.com](https://thedynamotimes.com/press-releases/jay-adoni-launches-jayadoni-com)
 
 ## Profiles
+- [Jay Adoni](https://thedynamotimes.com/profiles/jay-adoni)
 - [Richard B. Dunn](https://thedynamotimes.com/profiles/richard-b-dunn)
 - [David D. Van Fleet](https://thedynamotimes.com/profiles/david-d-van-fleet)
 - [Merle S. Robboy](https://thedynamotimes.com/profiles/merle-s-robboy)
@@ -132,7 +133,6 @@
 - [Ken Clapp](https://thedynamotimes.com/profiles/ken-clapp)
 - [Ryan Fillmore](https://thedynamotimes.com/profiles/ryan-fillmore)
 - [Aashish Valvani](https://thedynamotimes.com/profiles/aashish-valvani)
-- [Jay Adoni](https://thedynamotimes.com/profiles/jay-adoni)
 
 ## Pages
 - [Home](https://thedynamotimes.com/)
