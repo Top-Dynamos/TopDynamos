@@ -9,31 +9,23 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://thedynamotimes.com/article/featured-story</loc>
-    <priority>0.7</priority>
+    <loc>https://thedynamotimes.com/advertising</loc>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://thedynamotimes.com/article/graham-h-davis-building-science-construction-education</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://thedynamotimes.com/article/ls-1</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://thedynamotimes.com/article/ls-2</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://thedynamotimes.com/article/ls-3</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://thedynamotimes.com/article/ls-4</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://thedynamotimes.com/contact</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/corrections</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/editorial-policy</loc>
     <priority>0.9</priority>
   </url>
   <url>
@@ -519,6 +511,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://thedynamotimes.com/privacy-policy</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://thedynamotimes.com/profiles</loc>
     <priority>0.9</priority>
   </url>
@@ -723,7 +719,15 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://thedynamotimes.com/sponsored-content-policy</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://thedynamotimes.com/submit-news</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thedynamotimes.com/terms-of-use</loc>
     <priority>0.9</priority>
   </url>
 </urlset>
